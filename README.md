@@ -1,2 +1,1 @@
-# Javascript-Jean
-este es un repositorio de prueba cohorte5
+Prueba de como crear un repositorio y clonarlo desde github a mi computadora.
